@@ -1,0 +1,14 @@
+int ldrPin = A0;      // LDR connected to analog pin A0
+int led1 = 2;         // LED1 connected to digital pin 2
+int led2 = 3;         // LED2 connected to digital pin 3
+int threshold = 500;  // Threshold for darkness detection
+
+void setup() {
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
+  Serial.begin(9600); // Optional: to monitor LDR value
+}
+
+void loop() {
+  int ldrValue = analogRead(ldrPin);
+  Serial.pri
