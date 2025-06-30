@@ -21,3 +21,4 @@ The entire circuit and code were designed and tested in Tinkercad, a free online
 
 This project not only introduces students to the fundamentals of sensor-based automation but also enhances understanding of analog input, digital output control, and real-world applications of embedded systems. It demonstrates how simple components can be used effectively to solve everyday problems, and how platforms like Tinkercad can make prototyping and learning accessible without needing physical hardware.
 
+![Image](https://github.com/user-attachments/assets/511c0727-964e-416e-8ec7-214a7dd29c4e)
